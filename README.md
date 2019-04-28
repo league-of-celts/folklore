@@ -1,5 +1,7 @@
 # Folklore
-A collection of Irish Folklore ready to use in tv, animation or video games
+A collection of Irish Folklore ready to use in personal and commercial projects like tv shows, animation and video games.
+## Contributing
+Open a pull request to submit changes to this repo. Include any links and resources.
 ## Team
 ### People
 - [Myk Klemme - @mklemme](https://github.com/mklemme) Lead developer and designer on this project.
